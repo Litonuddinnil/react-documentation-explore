@@ -1,6 +1,7 @@
  
 import './App.css'
 import MyApp from './Myapp'
+import Profile from './Profile'
  
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <>
       <h1>Creating and nesting component</h1>
       <MyApp></MyApp>
+      <Profile></Profile>
   
     </>
   )
